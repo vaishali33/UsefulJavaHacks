@@ -1,0 +1,2 @@
+# UsefulJavaHacks
+set environment variablesUsingJava
